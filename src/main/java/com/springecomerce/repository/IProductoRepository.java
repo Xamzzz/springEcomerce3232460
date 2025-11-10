@@ -7,5 +7,5 @@ import com.springecomerce.model.Producto;
 
 @Repository
 public interface IProductoRepository extends JpaRepository<Producto, Integer> {
-
+	
 }
